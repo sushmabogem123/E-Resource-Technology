@@ -6,10 +6,11 @@ Features
 - Resource management
 - User-friendly interface
 - Responsive design
-- 
+  
 Technologies Used
 - HTML
 - CSS
+-javaScript
 
 Developer
 Sushma Bogem
